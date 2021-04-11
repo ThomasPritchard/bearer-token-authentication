@@ -1,0 +1,9 @@
+@import-normalize; // Bring in normalize css styles.
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
